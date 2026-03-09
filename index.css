@@ -141,11 +141,11 @@ body {
 /* Bottom right text */
 .bottom-right {
   position: absolute;
-    top: 75%;
+    top: 55%;
     right: 25%;
     font-family: "Dekko";
     font-size: 6rem;
-    color: pink;
+    color: rgb(250, 219, 255);
 }
 .bottom-left {
   position: absolute;
