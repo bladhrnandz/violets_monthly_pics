@@ -121,7 +121,7 @@ body {
 /* Top left text */
 .top-left {
   position: absolute;
-    top: 20%;
+    top: 10%;
     right: 45%;
     font-family: "Dekko";
     font-size: 7rem;
