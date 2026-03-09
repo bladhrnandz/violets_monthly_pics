@@ -141,7 +141,7 @@ body {
 /* Bottom right text */
 .bottom-right {
   position: absolute;
-    top: 55%;
+    top: 45%;
     right: 25%;
     font-family: "Dekko";
     font-size: 6rem;
