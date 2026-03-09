@@ -122,7 +122,7 @@ body {
 .top-left {
   position: absolute;
     top: 20%;
-    right: 35%;
+    right: 55%;
     font-family: "Dekko";
     font-size: 5rem;
     color: rgb(250, 219, 255);
@@ -141,7 +141,7 @@ body {
 /* Bottom right text */
 .bottom-right {
   position: absolute;
-    top: 45%;
+    top: 65%;
     right: 25%;
     font-family: "Dekko";
     font-size: 6rem;
