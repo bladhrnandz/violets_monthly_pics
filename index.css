@@ -122,10 +122,10 @@ body {
 .top-left {
   position: absolute;
     top: 20%;
-    right: 65%;
+    right: 35%;
     font-family: "Dekko";
     font-size: 5rem;
-    color: white;
+    color: rgb(250, 219, 255);
   }
 
 /* Top right text */
