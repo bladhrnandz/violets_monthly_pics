@@ -122,9 +122,9 @@ body {
 .top-left {
   position: absolute;
     top: 20%;
-    right: 15%;
+    right: 60%;
     font-family: "Dekko";
-    font-size: 8rem;
+    font-size: 9rem;
     color: violet
   }
 
