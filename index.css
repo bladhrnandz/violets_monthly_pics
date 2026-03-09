@@ -135,7 +135,7 @@ body {
     right: 25%;
     font-family: "Dekko";
     font-size: 6rem;
-    color: white;
+    color: violet;
   }
 
 /* Bottom right text */
@@ -153,7 +153,7 @@ body {
   right: 40%;
   font-family: "Dekko";
   font-size: 6rem;
-  color: white;
+  color: violet;
 }
 
 /* Centered text */
